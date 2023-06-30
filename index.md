@@ -1,5 +1,9 @@
 # welcome to d/place place site
 
+## table o' contents
+- [rules](https://dplace.jased.xyz/rules.html) *
+- [about](https://dplace.jased.xyz/about.html)
+
 ## what is d/place?
 [d/place](https://dplace.jased.xyz/about.html)
 

@@ -1,5 +1,5 @@
 title: dplace place site
-description: d/place is a discord server where everyone has admin permissions. Let\'s see what happens
+description: d/place is a discord server where everyone has admin permissions. Let's see what happens
 remote_theme: pages-themes/midnight@v0.2.0
 plugins:
 - jekyll-remote-theme

@@ -1,5 +1,9 @@
 # welcome to d/place about site
 
+## table o' contents
+- [rules](https://dplace.jased.xyz/rules.html)
+- [home](https://dplace.jased.xyz/index.html)
+
 d/place is a server where everyone has admin permissions. Let's see what happens.
 
 created by [@jased](https://jased.xyz) and [@devskoopy](https://skoopy.jased.xyz)

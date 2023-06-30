@@ -1,5 +1,9 @@
 # d/place rules.
 
+## table o' contents
+- [about](https://dplace.jased.xyz/about.html)
+- [home](https://dplace.jased.xyz/index.html)
+
 ## yes, a rule-less server has rules. deal with it.
 
 <ol>
