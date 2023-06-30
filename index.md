@@ -5,7 +5,7 @@
 - [about](https://dplace.jased.xyz/about.html)
 
 ## what is d/place?
-[d/place](https://dplace.jased.xyz/about.html)
+[d/place about](https://dplace.jased.xyz/about.html)
 
 ## why is d/place?
 IDK LOL
